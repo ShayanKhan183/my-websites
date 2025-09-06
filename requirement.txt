@@ -1,0 +1,22 @@
+# Life Nesty Website Requirements
+
+1. Web Browser:
+   - Google Chrome, Mozilla Firefox, Safari, or any modern browser.
+
+2. Libraries & Fonts:
+   - Font Awesome v6.4.0 (https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css)
+   - Google Fonts: Inter (https://fonts.google.com/specimen/Inter)
+
+3. Tools (Optional for development):
+   - VS Code, Sublime Text, or any code editor
+   - Live Server extension (for testing HTML/CSS/JS locally)
+   - Git & GitHub account (for version control and deployment)
+
+4. File Structure:
+   - index.html
+   - style.css
+   - script.js
+   - images/ (optional folder for images)
+
+5. Deployment:
+   - Can be hosted on GitHub Pages or any static web hosting platform.
